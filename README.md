@@ -4,6 +4,14 @@
 
 This repository contains Python projects related to both Marketing(main branch) and NBA(master branch) data analysis. Each project focuses on various aspects of data manipulation, analysis, and visualization using Python programming language.
 
+## How To Use
+Make sure you have the following installed:
+
+Python (>= 3.6)
+Jupyter Notebook
+pandas
+
+
 ## Marketing Data Analysis
 
 ### About the Analysis
@@ -46,6 +54,5 @@ College Analysis: Analyse player performance based on college attended, includin
 ### Conclusion
 The NBA player statistics have been successfully analysed and visualised, providing insights into player performance, team dynamics, and college influence. The analysis can inform decision-making processes in team management, player recruitment, and game strategies.
 
-
-# Overall Conclusion 
-The data analyses for both the marketing campaign and NBA player performance provided valuable insights for optimising strategies and enhancing performance. In the marketing analysis, techniques such as data cleaning, metric derivation, and visualization were employed to understand campaign effectiveness and allocate resources efficiently. Similarly, the NBA analysis utilized descriptive statistics, visualizations, and per-game metrics to evaluate player performance and team dynamics. By leveraging data analytics, stakeholders in both domains can make informed decisions, optimise resource allocation, and drive success towards achieving organisational objectives.
+### Future Work
+In the future, I plan to expand this repository by adding more Python projects related to data analysis. These projects will cover a wide range of topics, I will continue to refine and improve existing projects, incorporating feedback and implementing new techniques to enhance their effectiveness. By consolidating all my portfolio work for Python in this repository, it will serve as a comprehensive resource for anyone interested in exploring data Analytics.

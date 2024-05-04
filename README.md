@@ -12,7 +12,7 @@ Jupyter Notebook
 pandas
 
 
-## Marketing Data Analysis
+## Marketing Data Analysis (Main Branch)
 
 ### About the Analysis
 The analysis involves several steps, including data cleaning, column renaming, data transformation, currency formatting, reordering columns, computing basic statistics, and saving the cleaned data to a new CSV file.
@@ -33,7 +33,7 @@ Save to CSV: Save the cleaned and transformed data to a new CSV file.
 ### Conclusion
 The marketing campaign data has been successfully cleaned, transformed, and analysed. Insights can be drawn from the derived metrics, which can inform decision-making processes in marketing strategies.
 
-## NBA Data Analysis
+## NBA Data Analysis (Master Branch)
 
 ### About the Analysis
 The analysis involves several steps, including data visualisation using histograms, scatter plots, bar plots, box plots, and heatmaps. Additionally, descriptive statistics and filtering techniques are applied to gain insights into NBA player performance.
